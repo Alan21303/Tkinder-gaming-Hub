@@ -35,4 +35,4 @@ Navigate between games using the intuitive **main interface**, and enjoy hours o
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/Alan21303/Tkinder-gaming-Hub.git
-   cd tkinter-games-collection/games
+   cd games
